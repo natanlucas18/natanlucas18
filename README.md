@@ -1,7 +1,12 @@
-## Olá! eu sou Natan Lucas, desenvolvedor web fullstack.
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=natanlucas18&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/natanlucas18/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=natanlucas18&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/natanlucas18/github-readme-stats#gh-light-mode-only)
+## Desenvolvedor web fullstack
+<p> Olá! eu sou o Natan, moro em petrolina-PE e estou cursando o 5º semestre em análise e desenvolvimento de sistemas. atualmente estou focado em aprofundar meus conhecimentos em nextjs15 e orientação a objetos e testes em typescript, e em breve pretendo estudar sobre nestjs para complementar minha carreira como desenvolvedor web fullstack.</p>
+
+##
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=natanlucas18&show_icons=true&theme=dracula#gh-dark-mode-only&https://github.com/natanlucas18/github-readme-stats#gh-dark-mode-only"/>
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanlucas18&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 <div style="display:inline_block"><br>
   <img align="center" alt="Natan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
