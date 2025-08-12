@@ -1,7 +1,7 @@
 ## 🧑🏽‍💻 Natan Lucas
 
 <div><h3>Desenvolvedor Web Fullstack</h3></div>
-<p> Olá! eu sou o Natan, moro em petrolina-PE e estou cursando o 5º semestre em análise e desenvolvimento de sistemas. atualmente estou focado em aprofundar meus conhecimentos em nextjs15 e orientação a objetos e testes em typescript, e em breve pretendo estudar sobre nestjs para complementar minha carreira como desenvolvedor web fullstack.</p>
+<p> Olá! eu sou o Natan, moro em petrolina-PE e estou cursando o 5º semestre em análise e desenvolvimento de sistemas. atualmente estou focado em aprofundar meus conhecimentos em nextjs15 e orientação a objetos e testes em typescript.</p>
 
 ##
 
