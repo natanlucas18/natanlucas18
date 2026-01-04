@@ -64,7 +64,3 @@ Meu objetivo é evoluir constantemente como desenvolvedor, contribuindo para pro
 ## Contato
 
 * LinkedIn: [https://linkedin.com/in/natanls18](https://linkedin.com/in/natanls18)
-
----
-
-⭐ Se algum projeto te ajudar, não esqueça de deixar uma estrela!
