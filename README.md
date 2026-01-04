@@ -1,32 +1,70 @@
-## 🧑🏽‍💻 Natan Lucas
+#  Olá, eu sou o Natan
 
-<div><h3>Desenvolvedor Web Fullstack</h3></div>
-<p> Olá! eu sou o Natan, moro em petrolina-PE e estou cursando o 5º semestre em análise e desenvolvimento de sistemas. atualmente estou focado em aprofundar meus conhecimentos em nextjs15 e orientação a objetos e testes em typescript.</p>
+Sou **Desenvolvedor Full Stack** com foco em **JavaScript/TypeScript**, apaixonado por construir aplicações web escaláveis, bem estruturadas e com foco em boas práticas de arquitetura e código limpo.
 
-##
+Atuo tanto no **frontend** quanto no **backend**, com experiência em desenvolvimento de APIs, sistemas SaaS e aplicações modernas utilizando o ecossistema JavaScript.
 
-<div>
-  <h3> Minhas estatísticas</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=natanlucas18&show_icons=true&theme=dracula#gh-dark-mode-only&https://github.com/natanlucas18/github-readme-stats#gh-dark-mode-only"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanlucas18&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+---
 
-<div>
-  <h3>Tecnologias</h3>
-<div style="display:inline_block"><br>
-  <img align="center" alt="Natan-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Natan-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Natan-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Natan-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Natan-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Natan-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Natan-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-</div>
+## Tecnologias & Ferramentas
 
-##
-<div>  
-  <h3>Contato</h3>
-  <a href="https://www.linkedin.com/in/natanls18" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### Frontend
 
-</div>
+*  **React.js**
+*  **Next.js** (App Router / SSR / API Routes)
+*  **Tailwind CSS**
+*  **HTML5** | **CSS3**
+
+### Backend
+
+*  **Node.js**
+*  **NestJS** (arquitetura modular, DTOs, Guards, Interceptors)
+*  Autenticação e autorização (JWT, RBAC)
+
+### Banco de Dados
+
+*  **PostgreSQL**
+*  **TypeORM** (migrations, relacionamentos, repositories)
+
+### Linguagens
+
+*  **TypeScript**
+*  **JavaScript**
+
+---
+
+##  Conceitos que aplico no dia a dia
+
+* Arquitetura em camadas (Controller, Service, Repository)
+* Clean Code e SOLID
+* DTOs, validações e documentação com Swagger
+* Paginação, filtros e padronização de respostas
+* Tratamento global de erros (Exception Filters)
+* Versionamento de API
+* Boas práticas com Git e GitHub
+
+---
+
+##  O que você vai encontrar nos meus repositórios
+
+* Projetos **Full Stack** com React / Next.js e NestJS
+* APIs REST bem documentadas
+* Estruturas de banco de dados relacionais
+* Exemplos de arquitetura escalável
+* Código organizado e reutilizável
+
+---
+
+##  Objetivo
+
+Meu objetivo é evoluir constantemente como desenvolvedor, contribuindo para projetos que gerem impacto real, aprendendo novas tecnologias e aprimorando boas práticas de engenharia de software.
+
+---
+
+## Contato
+
+* LinkedIn: [https://linkedin.com/in/natanls18](https://linkedin.com/in/natanls18)
+
+---
+
+⭐ Se algum projeto te ajudar, não esqueça de deixar uma estrela!
