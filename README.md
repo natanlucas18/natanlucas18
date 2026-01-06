@@ -33,7 +33,7 @@ Atuo tanto no **frontend** quanto no **backend**, com experiência em desenvolvi
 
 ---
 
-##  Conceitos que aplico no dia a dia
+##  Conceitos que aplico nos meus projetos
 
 * Arquitetura em camadas (Controller, Service, Repository)
 * Clean Code e SOLID
